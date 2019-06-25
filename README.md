@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Dataflow Matrix Machines
 
-You can use the [editor on GitHub](https://github.com/anhinga/anhinga.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Academic sites
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ * [Partial Inconsistency and Vector Semantics of Programming Languages](https://www.cs.brandeis.edu/~bukatin/partial_inconsistency.html)
+ * [Dataflow Matrix Machines (since 2017)](https://www.cs.brandeis.edu/~bukatin/dmm_next.html)
 
-### Markdown
+### DataFlow Matrix Machines in Clojure
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * [https://github.com/jsa-aerial/DMM](https://github.com/jsa-aerial/DMM)
+ 
+### Dataflow animations in Processing
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anhinga/anhinga.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ * [Project Fluid](https://github.com/anhinga/fluid)
+ * ["Fluid drafts" - auxiliary repository with movies fed into Pure Lightweight Dataflow Matrix Machines](https://github.com/anhinga/fluid_drafts)
+ 
