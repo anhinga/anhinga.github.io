@@ -1,4 +1,4 @@
-## Dataflow Matrix Machines
+## Dataflow Matrix Machines and related topics
 
 ### Academic sites
 
@@ -12,5 +12,13 @@
 ### Dataflow animations in Processing
 
  * [Project Fluid](https://github.com/anhinga/fluid)
- * ["Fluid drafts" - auxiliary repository with movies fed into Pure Lightweight Dataflow Matrix Machines](https://github.com/anhinga/fluid_drafts)
+ * ["Fluid drafts" (with movies)](https://github.com/anhinga/fluid_drafts)
  
+### PyTorch experiments
+
+ * [Regularization in intrinsically sparse networks](https://github.com/anhinga/synapses/blob/master/regularization.md)
+ 
+### Work towards the next generation of Dataflow Matrix Machines
+
+ * [2019 design notes](https://github.com/anhinga/2019-design-notes)
+ * [2019 code drafts and resources (mostly Python)](https://github.com/anhinga/2019-python-drafts)
