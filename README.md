@@ -5,7 +5,7 @@
  * [Partial Inconsistency and Vector Semantics of Programming Languages](https://www.cs.brandeis.edu/~bukatin/partial_inconsistency.html)
  * [Dataflow Matrix Machines (since 2017)](https://www.cs.brandeis.edu/~bukatin/dmm_next.html)
 
-### DataFlow Matrix Machines in Clojure
+### Dataflow Matrix Machines in Clojure
 
  * [https://github.com/jsa-aerial/DMM](https://github.com/jsa-aerial/DMM)
  
