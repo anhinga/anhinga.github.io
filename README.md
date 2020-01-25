@@ -22,3 +22,7 @@
 
  * [2019 design notes](https://github.com/anhinga/2019-design-notes)
  * [2019 code drafts and resources (mostly Python)](https://github.com/anhinga/2019-python-drafts)
+
+### Location of DMM-related programming examples
+
+ * [Map of DMM-related programming examples and techniques](https://github.com/anhinga/2020-notes/tree/master/programming-overview)
