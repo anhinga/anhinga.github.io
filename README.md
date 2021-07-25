@@ -1,6 +1,6 @@
 ## Dataflow Matrix Machines and related topics
 
-### Brief introduction
+### Introduction
 
  * [Towards practical use of dataflow matrix machines](https://www.cs.brandeis.edu/~bukatin/towards-practical-dmms.pdf)
 
