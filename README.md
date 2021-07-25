@@ -1,5 +1,9 @@
 ## Dataflow Matrix Machines and related topics
 
+### Brief introduction
+
+ * [Towards practical use of dataflow matrix machines](https://www.cs.brandeis.edu/~bukatin/towards-practical-dmms.pdf)
+
 ### Academic sites
 
  * [Partial Inconsistency and Vector Semantics of Programming Languages](https://www.cs.brandeis.edu/~bukatin/partial_inconsistency.html)
