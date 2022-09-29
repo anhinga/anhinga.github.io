@@ -2,7 +2,7 @@
 
 ### Introduction
 
- * [Towards practical use of dataflow matrix machines](https://www.cs.brandeis.edu/~bukatin/towards-practical-dmms.pdf)
+ * [Towards practical use of dataflow matrix machines](https://anhinga.github.io/brandeis-mirror/towards-practical-dmms.pdf)
 
 ### Academic sites
 
