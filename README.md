@@ -7,7 +7,7 @@
 ### Academic sites
 
  * [Partial Inconsistency and Vector Semantics of Programming Languages](https://www.cs.brandeis.edu/~bukatin/partial_inconsistency.html)
- * [Dataflow Matrix Machines (since 2017)](https://www.cs.brandeis.edu/~bukatin/dmm_next.html)
+ * [Dataflow Matrix Machines (since 2017)](https://anhinga.github.io/brandeis-mirror/dmm_next.html)
 
 ### Dataflow Matrix Machines in Clojure
 
